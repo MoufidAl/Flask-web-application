@@ -1,4 +1,4 @@
-# web Flask Application
+# Web Flask Application
 
 ## Contains
 1. a user sign-up page
